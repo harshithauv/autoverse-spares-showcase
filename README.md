@@ -37,6 +37,8 @@
 
 Garages typically lose time calling multiple suppliers to find the right part for a vehicle. The app solves this by letting mechanics identify the exact part for a car, compare options, order with fast delivery, and manage the complete service workflow — from vehicle check-in to customer quotation and payment — in one place.
 
+The platform is also available as a **web application built with Angular**, which I developed alongside the Android app — sharing the same REST APIs and keeping product discovery, cart and order workflows consistent across both.
+
 ---
 
 ## Highlights
@@ -135,7 +137,7 @@ flowchart TD
 I handled the Android application **end-to-end**:
 
 - **Requirement Analysis** — understood business requirements and translated them into app features
-- **Feature Development** — designed and built UI and features using Kotlin and Java
+- **Feature Development** — designed and built UI and features using Kotlin and Java, and the Angular web version of the platform
 - **API Integration** — integrated REST APIs with the application
 - **Testing & Releases** — tested builds and managed staging and production releases on Google Play
 - **Production Support** — debugged and resolved production issues to keep the app stable
