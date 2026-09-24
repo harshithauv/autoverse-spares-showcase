@@ -39,6 +39,8 @@ Garages typically lose time calling multiple suppliers to find the right part fo
 
 The platform is also available as a **web application built with Angular**, which I developed alongside the Android app — sharing the same REST APIs and keeping product discovery, cart and order workflows consistent across both.
 
+➡️ See the web app: **[autoverse-spares-web-showcase](https://github.com/harshithauv/autoverse-spares-web-showcase)**
+
 ---
 
 ## Highlights
