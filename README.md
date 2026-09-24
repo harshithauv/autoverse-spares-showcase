@@ -145,6 +145,9 @@ I handled the Android application **end-to-end**:
 
 ## Contact
 
+**Harshitha U V** — Software Engineer, Bengaluru
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-harshithauv.github.io-C9A44B?style=flat&logo=googlechrome&logoColor=white)](https://harshithauv.github.io/portfolio/)
 [![GitHub](https://img.shields.io/badge/GitHub-harshithauv-181717?style=flat&logo=github)](https://github.com/harshithauv)
 
 ---
